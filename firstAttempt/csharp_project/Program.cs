@@ -15,7 +15,7 @@ namespace csharp_project
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new OurProject());
+            Application.Run(new Form3_lzy());
         }
     }
 }

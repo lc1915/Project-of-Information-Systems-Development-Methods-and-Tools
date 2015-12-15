@@ -1,9 +1,0 @@
-D:\vs\csharp_project\csharp_project\bin\Debug\csharp_project.exe.config
-D:\vs\csharp_project\csharp_project\bin\Debug\csharp_project.exe
-D:\vs\csharp_project\csharp_project\bin\Debug\csharp_project.pdb
-D:\vs\csharp_project\csharp_project\obj\x86\Debug\csharp_project.Form1.resources
-D:\vs\csharp_project\csharp_project\obj\x86\Debug\csharp_project.Properties.Resources.resources
-D:\vs\csharp_project\csharp_project\obj\x86\Debug\csharp_project.csproj.GenerateResource.Cache
-D:\vs\csharp_project\csharp_project\obj\x86\Debug\csharp_project.exe
-D:\vs\csharp_project\csharp_project\obj\x86\Debug\csharp_project.pdb
-D:\vs\csharp_project\csharp_project\obj\x86\Debug\csharp_project.OurProject.resources
