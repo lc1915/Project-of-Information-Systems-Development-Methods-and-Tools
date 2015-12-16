@@ -1,0 +1,8 @@
+D:\vs\csharp_project\secondAttempt\secondAttempt\bin\Debug\secondAttempt.exe
+D:\vs\csharp_project\secondAttempt\secondAttempt\bin\Debug\secondAttempt.pdb
+D:\vs\csharp_project\secondAttempt\secondAttempt\obj\x86\Debug\CustomDataGridViewColumn.Form1.resources
+D:\vs\csharp_project\secondAttempt\secondAttempt\obj\x86\Debug\secondAttempt.Properties.Resources.resources
+D:\vs\csharp_project\secondAttempt\secondAttempt\obj\x86\Debug\secondAttempt.csproj.GenerateResource.Cache
+D:\vs\csharp_project\secondAttempt\secondAttempt\obj\x86\Debug\secondAttempt.exe
+D:\vs\csharp_project\secondAttempt\secondAttempt\obj\x86\Debug\secondAttempt.pdb
+D:\vs\csharp_project\secondAttempt\secondAttempt\obj\x86\Debug\secondAttempt.csprojResolveAssemblyReference.cache
